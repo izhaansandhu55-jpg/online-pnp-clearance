@@ -1,2 +1,9 @@
-# online-pnp-clearance
-Online PNP Clearance is a trusted online platform that helps Filipinos conveniently apply for their Philippine National Police Clearance from the comfort of their homes. Our goal is to make the clearance application process faster, easier, and fully digital.
+# Online PNP Clearance
+
+Welcome to **Online PNP Clearance**, your trusted platform to apply for your **Philippine National Police Clearance** online.
+
+Visit our official website to learn more and start your application:
+
+👉 [https://onlinepnpclearance.ph/](https://onlinepnpclearance.ph/)
+
+We provide step-by-step guidance to make your PNP clearance process fast, secure, and hassle-free.
